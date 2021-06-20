@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5b0396cef9e55a241999a44c62410e1c
+timeCreated: 1491270215
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ISOCT3
+  fontNames:
+  - ISOCT3
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4b68cfe735c736743a4d7d0526fe830c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

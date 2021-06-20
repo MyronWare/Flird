@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 513847f8a53c99a4a9afba5865817a16
+timeCreated: 1491270208
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: RomanC
+  fontNames:
+  - RomanC
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

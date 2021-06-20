@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6b9aff0252bb3a74981de9773a2bba08
+timeCreated: 1491270224
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Dutch801 XBd BT
+  fontNames:
+  - Dutch801 XBd BT
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

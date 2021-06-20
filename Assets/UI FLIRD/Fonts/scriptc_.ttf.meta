@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f9f019938f12cbc4cb800407824c97ea
+timeCreated: 1491270365
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ScriptC
+  fontNames:
+  - ScriptC
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

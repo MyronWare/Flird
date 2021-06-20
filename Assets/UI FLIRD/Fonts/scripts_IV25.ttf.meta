@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 9dcfe354d64761443afa3efcd6df2294
+timeCreated: 1491270252
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ScriptS
+  fontNames:
+  - ScriptS
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6c043d360442796449963011a6ef5f4d, type: 3}
+  - {fileID: 12800000, guid: 4bac210f58e69764eb7071d4bc42c4ec, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

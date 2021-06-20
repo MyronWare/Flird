@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 846bcca934e6afe4b9bba2a303252620
+timeCreated: 1491270237
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: RomanS
+  fontNames:
+  - RomanS
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 45742babf14ffe446b421d0dc97b29b9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

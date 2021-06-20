@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c50b46f9a8d337b4c88159599294d4b2
+timeCreated: 1491270349
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gigi
+  fontNames:
+  - Gigi
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

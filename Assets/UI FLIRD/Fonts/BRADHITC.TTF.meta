@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 03468a0ad9ed94949b1c9e8872ad0e21
+timeCreated: 1491269935
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bradley Hand ITC
+  fontNames:
+  - Bradley Hand ITC
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

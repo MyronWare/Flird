@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 585eaab3c3c1b9542bdc0c1671cbf08e
+timeCreated: 1491270214
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: GothicG
+  fontNames:
+  - GothicG
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

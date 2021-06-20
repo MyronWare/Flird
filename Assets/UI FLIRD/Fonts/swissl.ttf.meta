@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: f62b24f87160c444788b180c628516dd
+timeCreated: 1491270361
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Swis721 Lt BT
+  fontNames:
+  - Swis721 Lt BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 98611cd8fe3695c46908f5642a5c5c2f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5966c8dad1b22ff43a9cbe3052afe611
+timeCreated: 1491270214
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Juice ITC
+  fontNames:
+  - Juice ITC
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

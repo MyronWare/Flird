@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1cea7055bfe5ba84fb4abd64b6531bac
+timeCreated: 1491270037
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Proxy 9
+  fontNames:
+  - Proxy 9
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

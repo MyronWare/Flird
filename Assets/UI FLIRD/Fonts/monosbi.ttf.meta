@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 708129f98e276804d806756803d6a219
+timeCreated: 1491270227
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Monospac821 BT
+  fontNames:
+  - Monospac821 BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 63160c7ff778f4649862030cc1c9307f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

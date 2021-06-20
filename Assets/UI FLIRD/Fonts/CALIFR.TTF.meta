@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: fe75d25dab829ab4c9ab41e6c693104d
+timeCreated: 1491270366
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Californian FB
+  fontNames:
+  - Californian FB
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a3c38cd3960febd41968ecefb92dc387, type: 3}
+  - {fileID: 12800000, guid: 1d76a8a70db5c76448c60002e91e72b7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 270af6d0e3756154d927b895638fc613
+timeCreated: 1491270038
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: GENISO
+  fontNames:
+  - GENISO
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

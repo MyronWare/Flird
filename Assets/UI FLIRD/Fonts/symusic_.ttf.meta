@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 441ac1927e62a494aae70feb95c82229
+timeCreated: 1491270203
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Symusic
+  fontNames:
+  - Symusic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

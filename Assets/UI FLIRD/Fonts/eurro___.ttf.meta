@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0ee315b64a60838409484445aa37717f
+timeCreated: 1491269952
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: EuroRoman
+  fontNames:
+  - EuroRoman
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

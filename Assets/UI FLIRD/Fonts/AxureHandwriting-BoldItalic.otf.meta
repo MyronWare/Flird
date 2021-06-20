@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7826c4a276c07734c8896503d643d778
+timeCreated: 1491270231
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Axure Handwriting
+  fontNames:
+  - Axure Handwriting
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 12075c3b5d091a04d9e529ff2c98dc47, type: 3}
+  - {fileID: 12800000, guid: 3206145c17ff9d742a2a7d0b0c24f502, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

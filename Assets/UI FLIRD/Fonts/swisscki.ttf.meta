@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b6dd3c61637767f4f855e1403bce86dd
+timeCreated: 1491270344
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Swis721 BlkCn BT
+  fontNames:
+  - Swis721 BlkCn BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6c611788edb1a1b4ebdb0abd38323916, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

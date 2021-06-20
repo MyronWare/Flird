@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 82d15fc1b5c0b9845ade786a005019a2
+timeCreated: 1491270235
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: GreekS
+  fontNames:
+  - GreekS
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5e76e86bcb81f0e41bc387f06da97e78, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

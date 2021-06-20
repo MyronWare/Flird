@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 3412cf38ef3915e40828318b4349a173
+timeCreated: 1491270201
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Swis721 Blk BT
+  fontNames:
+  - Swis721 Blk BT
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

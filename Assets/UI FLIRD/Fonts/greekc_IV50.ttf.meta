@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 6ef86dde9168700468e3cb9dee49426b
+timeCreated: 1491270226
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: GreekC
+  fontNames:
+  - GreekC
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 5b4cb1502022f2c449c6f2ec0e845367, type: 3}
+  - {fileID: 12800000, guid: 51ab3d045996b4640be4a8ffc6a65e37, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

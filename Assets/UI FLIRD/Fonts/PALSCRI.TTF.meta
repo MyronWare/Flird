@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 7b7d17b007a47a74c80aaa5e67e65267
+timeCreated: 1491270233
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Palace Script MT
+  fontNames:
+  - Palace Script MT
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

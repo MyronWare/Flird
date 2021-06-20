@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 78132a6b4c62ed946a2eaa9d9c3975e7
+timeCreated: 1491270231
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ISOCT
+  fontNames:
+  - ISOCT
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c171206c8a62461419112ee6424dda6d
+timeCreated: 1491270347
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Segoe UI Emoji
+  fontNames:
+  - Segoe UI Emoji
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

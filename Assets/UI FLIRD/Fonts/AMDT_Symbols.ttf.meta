@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1a17835b412d6f747a2a2a64fd0d3900
+timeCreated: 1491270037
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: AmdtSymbols
+  fontNames:
+  - AmdtSymbols
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

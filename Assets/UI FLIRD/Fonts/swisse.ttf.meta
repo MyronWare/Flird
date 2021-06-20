@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 89383fb1664453e4ba6dcdd522b290a3
+timeCreated: 1491270239
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Swis721 Ex BT
+  fontNames:
+  - Swis721 Ex BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0e4f0d9c3bce9794a8aa448f86421ec2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

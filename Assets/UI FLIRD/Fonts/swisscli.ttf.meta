@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 88707c396943e1f439fee2ae5853187b
+timeCreated: 1491270239
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Swis721 LtCn BT
+  fontNames:
+  - Swis721 LtCn BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 07b026b654ae56a4696bf64f597175d0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

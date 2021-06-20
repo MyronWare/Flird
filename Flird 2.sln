@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flird 2", "Assembly-CSharp.csproj", "{3DC6141A-3230-58A7-366D-C52E94A6BCEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flird 2", "Assembly-CSharp-Editor.csproj", "{37C96FF9-3721-9D57-0990-07442BC8769B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DC6141A-3230-58A7-366D-C52E94A6BCEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DC6141A-3230-58A7-366D-C52E94A6BCEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DC6141A-3230-58A7-366D-C52E94A6BCEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DC6141A-3230-58A7-366D-C52E94A6BCEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37C96FF9-3721-9D57-0990-07442BC8769B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37C96FF9-3721-9D57-0990-07442BC8769B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37C96FF9-3721-9D57-0990-07442BC8769B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37C96FF9-3721-9D57-0990-07442BC8769B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

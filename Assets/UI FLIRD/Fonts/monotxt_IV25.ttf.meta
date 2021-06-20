@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 5431bf94c1a787b488f5329c794d933b
+timeCreated: 1491270211
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Monotxt
+  fontNames:
+  - Monotxt
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

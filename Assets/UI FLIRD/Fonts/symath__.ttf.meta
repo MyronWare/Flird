@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 7d9a44b33e370e647805db8746840b80
+timeCreated: 1491270234
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Symath
+  fontNames:
+  - Symath
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 6d694bb07474aff498eb028ba00d61f3, type: 3}
+  - {fileID: 12800000, guid: 407bb0d6c16809a49b91bbd4e99a28a2, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

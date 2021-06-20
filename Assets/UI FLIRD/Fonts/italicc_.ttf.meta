@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: def7467ccc26eaa41b0c2b8d1bd351c7
+timeCreated: 1491270356
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ItalicC
+  fontNames:
+  - ItalicC
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

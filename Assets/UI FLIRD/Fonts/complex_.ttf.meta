@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 037d0ddfa97f6934ebf69aed3659d22a
+timeCreated: 1491269935
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Complex
+  fontNames:
+  - Complex
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

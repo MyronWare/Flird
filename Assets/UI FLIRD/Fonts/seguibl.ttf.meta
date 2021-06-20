@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 935fba39d3ddada46bd0e624248f90ae
+timeCreated: 1491270244
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Segoe UI
+  fontNames:
+  - Segoe UI
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 511b2431fac875f40a5a6dee746aa93f, type: 3}
+  - {fileID: 12800000, guid: 0412375185b52dc46be7b57dca3c753c, type: 3}
+  - {fileID: 12800000, guid: 2d81bf14dc3f5bd449e33b125b4cc4b3, type: 3}
+  - {fileID: 12800000, guid: 3370035b1becd174c82690385a160037, type: 3}
+  - {fileID: 12800000, guid: 5858aa8c41bebdf40aec54d6b3ddc447, type: 3}
+  - {fileID: 12800000, guid: 49ac8d1fe2529df4bb145667e37ebef6, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

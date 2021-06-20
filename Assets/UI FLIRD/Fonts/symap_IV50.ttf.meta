@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: c77eb7e7baa54634493728935eb57193
+timeCreated: 1491270350
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Symap
+  fontNames:
+  - Symap
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0f16d543add52fb4bb862720da945a42, type: 3}
+  - {fileID: 12800000, guid: 6f1e2c14d06a222469562970332279ab, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

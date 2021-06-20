@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: b65a4b4d314a7b04d97f091a12410144
+timeCreated: 1491270344
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Swis721 BdOul BT
+  fontNames:
+  - Swis721 BdOul BT
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

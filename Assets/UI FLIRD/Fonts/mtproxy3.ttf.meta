@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: a26142463569f0745a42ab1beafe5dde
+timeCreated: 1491270253
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Proxy 3
+  fontNames:
+  - Proxy 3
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fbab1a29c57d64043ab46ba5c48ce15c
+timeCreated: 1491270366
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: RomanD
+  fontNames:
+  - RomanD
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

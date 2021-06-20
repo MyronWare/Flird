@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 842afc21e49cb1e4f9d36adfd2339d29
+timeCreated: 1491270237
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Romantic
+  fontNames:
+  - Romantic
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 43b5b185052477f43b3c3f1366d20a33, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

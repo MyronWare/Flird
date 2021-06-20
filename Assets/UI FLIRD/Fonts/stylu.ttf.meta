@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d0666fc7e6ac6b941ae96b607d69456b
+timeCreated: 1491270351
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Stylus BT
+  fontNames:
+  - Stylus BT
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

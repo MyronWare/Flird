@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 65d33e6fbc9d05942bbdef9b5577d68c
+timeCreated: 1491270222
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: AMGDT_IV50
+  fontNames:
+  - AMGDT_IV50
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
